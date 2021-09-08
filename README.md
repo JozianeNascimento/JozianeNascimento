@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JozianeNascimento
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Html, CSS,Javascript, C++.
+- 🌱 I’m currently learning Html, CSS, Javascript, C++, PHP, Java.
 - 📫 How to reach me email-zianenascimento@hotmail.com or linkedin: https://www.linkedin.com/in/joziane-nascimento-tagliaferro-9106b038/
 
 <!---
